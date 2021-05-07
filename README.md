@@ -1,2 +1,2 @@
 # Gitlearn
-this repository is demo for learning github <(link)https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataStructures_v.PROF_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_113517926090_._ad_501626073722_._kw__._de_c_._dm__._pl__._ti_dsa-1187478350545_._li_9075334_._pd__._&matchtype=b&gclid=Cj0KCQjwytOEBhD5ARIsANnRjVjQCAsIqkFbbGU-YMvc3KrsY2jmUqPxRktB0RxjudUzSm1v1lsCdTAaAv16EALw_wcB>
+this repository is demo for learning github 
